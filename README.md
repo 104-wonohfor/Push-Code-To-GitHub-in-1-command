@@ -1,19 +1,20 @@
 # Push-Code-To-GitHub-in-1-command
-This code is for lazy people 😄
-<br>Instead of 3 commands, I write this to push code in only 1 command 😆
-<br>The name of commit will be: dd//mm/yy hh/mm/ss (you can change the name of commit by changing code)
-<br>Ex: 
+- This code is for lazy people 😄
+- Instead of 3 commands, I write this to push code in only 1 command 😆
+- The name of commit will be: dd//mm/yy hh/mm/ss (in real time)
+- You can change the name of commit by changing code
+- Ex: 
 <br>![Screenshot_166](https://user-images.githubusercontent.com/104601534/174460337-8a49f6dd-e4bf-4554-a1bf-9cb1f937f06a.png)
 
 # Required
-</a>
+- </a>
   <a href="https://www.python.org/downloads/">
     <img src="https://img.shields.io/badge/Python-3.10-blue" height="20" alt="Python"> 
   </a> (No need for the lastest version)
-<br>
-GitHub (of course, you can't push if you don't have 🙂)
 
-Make sure you linked GitHub with your code editors. Better if you have known how to push code to GitHub before. 
+- GitHub (of course, you can't push if you don't have 🙂)
+
+- Make sure you linked GitHub with your code editors. Better if you have known how to push code to GitHub before. 
 
 
 # How to use
