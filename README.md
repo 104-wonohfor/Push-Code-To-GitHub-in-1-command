@@ -1,6 +1,6 @@
 # Push-To-GitHub-in-1-command
 Instead of 3 commands, I write this to push code in only 1 command :)) 
-<br>The name of commit will be: dd//mm/yy hh/mm/ss (you can change the name of commit)
+<br>The name of commit will be: dd//mm/yy hh/mm/ss (you can change the name of commit by changing code)
 <br>Ex: 
 <br>![Screenshot_166](https://user-images.githubusercontent.com/104601534/174460337-8a49f6dd-e4bf-4554-a1bf-9cb1f937f06a.png)
 
