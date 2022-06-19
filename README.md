@@ -1,4 +1,4 @@
-# Push-To-GitHub-in-1-command
+# Push-Code-To-GitHub-in-1-command
 This code is for lazy people 😄
 <br>Instead of 3 commands, I write this to push code in only 1 command 😆
 <br>The name of commit will be: dd//mm/yy hh/mm/ss (you can change the name of commit by changing code)
